@@ -1,2 +1,2 @@
 # Seamless-Capstone
-IDEA and USER:
+#IDEA and USER:
